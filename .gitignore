@@ -1,0 +1,22 @@
+# Build outputs
+obj_dir/
+out/
+*.o
+*.elf
+*.bin
+*.hex
+
+# Waveforms / traces
+*.vcd
+*.fst
+*.trace
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
